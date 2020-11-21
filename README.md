@@ -1,0 +1,2 @@
+# powdered_milk_prediction
+混合授乳での母乳授乳後の粉ミルクの必要量を予測する
